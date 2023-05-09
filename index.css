@@ -37,6 +37,7 @@ body {
     flex-direction: row;
     align-items: center;
     gap: 10px;
+    overflow: scroll;
 }
 
 .image {
@@ -73,6 +74,7 @@ body {
     border-radius: 40px;
     line-height: 50px;
     color: whitesmoke;
+    overflow: scroll;
 }
 
 main {
@@ -87,6 +89,7 @@ main {
     border-top: #ccc 3px solid;
     display: flex;
     padding: 25px 0;
+    overflow: scroll;
 }
 
 .image_side {
@@ -94,6 +97,7 @@ main {
     flex-direction: column;
     justify-content: space-around;
     gap: 20px;
+    overflow: scroll;
 }
 
 .footer2 {
