@@ -16,6 +16,7 @@ body {
     padding: 30px 30px;
     margin: auto;
     user-select: none;
+    overflow: scroll;
 }
 
 #body {
